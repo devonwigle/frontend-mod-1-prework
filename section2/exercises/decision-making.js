@@ -38,16 +38,22 @@ if (bearChoice === 1) {
 Questions
 
 1. In English, using technical vocabulary, describe what is happening between lines 14 and 18.
-
+An if...else conditional statement is between lines 14 and 18. It says that if doorChoice === 1, then "hat" is assigned to bearClothing
+If the first condition evaluates as false, then "scarf" will be assigned to bearClothing.
 2. What variable has a new value assigned to it after the first if statement executes?
-
+bearClothing
 3. If you changed the variable doorChoice to equal 3, what would the bearClothing value be?
-
+It will be a scarf.
 4. In English, using technical vocabulary, describe what is happening between lines lines 27 and 35.
-
+An if...else conditional statement with additional else if is being evaluated between lines 27 and 35.
+If line 27 evaluates as true then line 28 runs, if it evaluates as false the code moves to the next else if statement on line 29.
+If line 29 evaluates as true then line 30 runs, if it evaluates as false the code moves to the next else if statement on line 31.
+If line 31 evaluates as true then line 32 runs.
+If lines 27, 29, and 31 evaluate as false then the else runs on line 34.
 5. If you changed the variable bearChoice to equal 3, what will be the final outcome be?
-
+If you changed bear choice to equal three than line 32 runs and you run into a room full of snakes.
 6. If you changed the variable doorChoice to equal 1, and the variable bearChoice to equal 2, what will be the final outcome be?
-
+The final outcome will be that you point out that the hat is too small and make the bear cry.
 7. What is your favorite ending?
+My favorite ending is where I offer my clothes to the bear and it shows me the way out.
 */
