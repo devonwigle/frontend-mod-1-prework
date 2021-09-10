@@ -28,13 +28,13 @@ console.log(animals.length);
 
 // YOU DO: Write code that will reassign the last item in the animals
 // array to "Gorilla"
-animals[2] = "Gorilla"
+animals[2] = "Gorilla";
 
 // YOU DO: Write code that will add a new animal (type of your choice) to position 3.
-animals[3] = "Okapi"
+animals[3] = "Okapi";
 
 // YOU DO: Write code that will log the String "Elephant" in the animals array
-animals[4] = "Elephant"
+animals[4] = "Elephant";
 console.log(animals);
 
 //-------------------
@@ -42,7 +42,7 @@ console.log(animals);
 //-------------------
 
 // YOU DO: Declare a variable that will store an an array of at least 4 foods (strings)
-var foods = ["beef", "pork", "chicken", "bison"]
+var foods = ["beef", "pork", "chicken", "bison"];
 
 // YOU DO: Write code below that will log the number of elements in the array of
 // foods from above.
@@ -55,18 +55,18 @@ console.log(foods);
 
 // YOU DO: Write code below that removes the last item of food from the foods array and
 // log the changed array to verify that item has been removed
-foods.pop()
+foods.pop();
 console.log(foods);
 
 // YOU DO: Write code to add 3 new foods to the array.
   // There are several ways to do this - choose whichever you'd like!
 // Then, log the changed array to verify the new items have been added
-foods.push("cucumber")
-foods.unshift("salmon")
-foods[6] = "Scallops"
+foods.push("cucumber");
+foods.unshift("salmon");
+foods[6] = "Scallops";
 console.log(foods);
 // YOU DO: Remove the food that is in index position 0.
-foods.shift()
+foods.shift();
 
 //-------------------
 // PART 3: Where are Arrays used?
