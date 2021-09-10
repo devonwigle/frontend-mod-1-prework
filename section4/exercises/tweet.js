@@ -31,5 +31,5 @@ rock.addComments ("Where did you find it?");
 console.log(rock);
 tablet.addLikes("Erin", "My tablet died!", 202109090735, 2, "Should have plugged it in!");
 console.log(tablet);
-tablet.addLikes()
+tablet.addLikes();
 console.log(tablet);

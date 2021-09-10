@@ -43,11 +43,11 @@ animalsAndNum.baldEagles = 3;
 console.log(animalsAndNum);
 
 // Change the value for at least one of your animal keys, and log the updated Object.
-animalsAndNum.baldEagles = 4
+animalsAndNum.baldEagles = 4;
 console.log(animalsAndNum);
 
 // Add another animal to the zoo Object, and log the updated Object.
-animalsAndNum.redPandas = 2
+animalsAndNum.redPandas = 2;
 console.log(animalsAndNum);
 
 //-------------------

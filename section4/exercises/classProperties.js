@@ -101,7 +101,7 @@ class NewDogs{
   }
 }
 var max = new NewDogs("brown", "long", true);
-var wert = new NewDogs("blue and brown", "medium", false)
+var wert = new NewDogs("blue and brown", "medium", false);
 console.log(max);
 console.log(wert);
 // Prompt 2: Snack
@@ -112,8 +112,8 @@ class NewSnacks{
     this.hasSugar = hasSugar;
   }
 }
-var craisins = new NewSnacks("crimson", "tangy", true)
-var cheetos = new NewSnacks("orange", "cheesy", true)
+var craisins = new NewSnacks("crimson", "tangy", true);
+var cheetos = new NewSnacks("orange", "cheesy", true);
 console.log(craisins);
 console.log(cheetos);
 // Prompt 3: Shirt
@@ -121,10 +121,10 @@ class NewShirts{
   constructor(color, hasButtons, hasCollar) {
     this.color = color;
     this.hasButtons = hasButtons;
-    this.hasCollar = hasCollar
+    this.hasCollar = hasCollar;
   }
 }
-var polo1 = new NewShirts("Blue", true, true)
-var workShirt = new NewShirts("red", false, false)
+var polo1 = new NewShirts("Blue", true, true);
+var workShirt = new NewShirts("red", false, false);
 console.log(polo1);
 console.log(workShirt);

@@ -41,16 +41,16 @@ class Burrito {
   }
 };
 
-var chicken1 = new Burrito("shredded chicken", "tortilla", "cheese, beans, pico de gallo")
-var pork2 = new Burrito("pulled pork", "tortilla", "guacamole, sour cream")
-var beef3 = new Burrito("beef", "hard shell", "cheese, rice")
+var chicken1 = new Burrito("shredded chicken", "tortilla", "cheese, beans, pico de gallo");
+var pork2 = new Burrito("pulled pork", "tortilla", "guacamole, sour cream");
+var beef3 = new Burrito("beef", "hard shell", "cheese, rice");
 
 var chicken1 = new Burrito("shredded chicken", "tortilla", "cheese, beans, pico de gallo");
 chicken1.changeProtein();
 console.log(chicken1);
-var pork2 = new Burrito("pulled pork", "tortilla", "guacamole, sour cream")
+var pork2 = new Burrito("pulled pork", "tortilla", "guacamole, sour cream");
 pork2.addTopping();
 console.log(pork2);
-var beef3 = new Burrito("beef", "hard shell", "cheese, rice")
+var beef3 = new Burrito("beef", "hard shell", "cheese, rice");
 beef3.addTopping();
 console.log(beef3);
