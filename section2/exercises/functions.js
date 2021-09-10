@@ -41,7 +41,7 @@ sayHello();
 // Then, call the function 3 times, each time, passing it a different name.
 function greetMe(name) {
   console.log("Hello " + name);
-}
+};
 name = "Mary";
 greetMe(name);
 name = "Sam";
@@ -53,16 +53,16 @@ greetMe(name);
 // Then, call that function 3 times, each time, passing in 2 different Numbers.
 function sum(a,b) {
   console.log(a + b);
-}
+};
 a = 4;
 b = 62;
 sum(a,b);
 a = 753;
 b = 865;
-sum(a,b)
-a = 3
-b = -4
-sum(a,b)
+sum(a,b);
+a = 3;
+b = -4;
+sum(a,b);
 
 
 // YOU DO🎈: Write a function that takes in two strings and prints a concatenation
