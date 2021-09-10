@@ -45,9 +45,9 @@ console.log(`In a predictable result, the ${slowPoke} beat the ${speedy}!`);
 // Declare three variables, name/content/data type of your choice. Think carefully about what
   // you name the variables. Remember, the goal is to be concise but descriptive (it's a hard balance!)
   // Then, log out ONE sentence that incorporates all THREE variables uisng interpolation.
-var name1 = "Larry"
-var name2 = "Curly"
-var name3 = "Moe"
+var name1 = "Larry";
+var name2 = "Curly";
+var name3 = "Moe";
 console.log(`The Three Stooges are ${name1}, ${name2}, and ${name3}.`);
 //-------------------
 // FINAL CHECK

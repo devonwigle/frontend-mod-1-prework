@@ -23,7 +23,7 @@ console.log(enrolledStudents);
 // YOU DO:
 // Write code below to save the string 'Harry Potter must not return to Hogwarts!'
 // log that variable to the console.
-var words = "Harry Potter must not return to Hogwarts!"
+var words = "Harry Potter must not return to Hogwarts!";
 console.log(words);
 
 // YOU DO:
@@ -46,8 +46,8 @@ console.log(firstName, isHungry, numberOfPets);
   // values (but same data type).
 // log all three variables to the console.
 firstName = "Bob";
-isHungry = "false"
-numberOfPets = "42"
+isHungry = "false";
+numberOfPets = "42";
 console.log(firstName, isHungry, numberOfPets);
 
 // YOU DO:
